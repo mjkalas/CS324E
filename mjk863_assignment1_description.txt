@@ -1,3 +1,0 @@
-I created a scene with a box of tissue on a table with a cup of tea. I included the grey window in the background because I thought it fit with the situation. What better time for tea than on a rainy day?
-
-I used rectangles for the table, box of tissue and the cup.  I used an ellipse for the window and lines for the segments inside the window.  I also utilized order to create rudimentary layering and used a bezier curve for the handle on the cup of tea.  I used a number of complimentary colours for the elements.
