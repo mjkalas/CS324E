@@ -2,7 +2,7 @@ For Assignment 3, we created a Python file that parses through a plain text book
 
 With the data from the three files, we created a Wordle with the allwords.txt, a novel visualization word cloud with the uniquewords.txt, and a scatter-plot graph to illustrate the word frequency.
 
-The assignment was a collaboration.  The Python program was mostly written by Minal while the word frequency was done by Bruno.  The Wordle was completed by Minal, and the word frequency was completed by Bruno.  The novel visualization was a collaborative effort.
+The assignment was a collaboration.  The Python program was mostly written by MK while the word frequency was done by BDH.  The Wordle was completed by MK, and the word frequency was completed by BDH.  The novel visualization was a collaborative effort.
 
 -- Novel Visualization --
 
@@ -12,6 +12,6 @@ These are the colours that came to mind when thinking about The Three Musketeers
 
 For the word frequency visualization, we decided to plot the number of words that appeared in the novel with respect to the number of times they appeared. Because only a small minority of the words appeared many times, plotting this data directly was uninteresting; In fact, it would plot a straight line. In order to visualize the data better, we decided to use logarithmic axes to display small nuances in the data. This showed the distribution of the words in a more visually appealing manner, and allows for a person to see the difference in the orders of magnitude between frequencies of different words. In addition, we used mathematical scaling to ensure that the plot would always be centered inside the window pane, regardless of which word frequency file is input to the program.
 
--- Justification for Extra Credit --
+-- Extra Credit --
 
-Because we decided to visualize the graphs using unique axes and implement math functions to ensure the image would always be displayed and scaled correctly, regardless of word frequencies given, we believe that we DESERVE an extra credit point. Also, one of our team members dropped the class and we were forced to worked on this with a weaker team structure, which merits some compensation.
+We decided to visualize the graphs using unique axes and implement math functions to ensure the image would always be displayed and scaled correctly, regardless of word frequencies given.
