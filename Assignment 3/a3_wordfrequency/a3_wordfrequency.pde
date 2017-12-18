@@ -1,7 +1,3 @@
-// Bruno De Hoyos
-// UT EID: bd8739
-// 02/11/2016
-
 // there are X words that appear Y times
 double[] keys; // that appear Y times
 double[] values;  // X words
