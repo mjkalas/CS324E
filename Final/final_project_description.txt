@@ -1,0 +1,15 @@
+Assignment 6 - Group 18
+
+For this assignment, our group created an asteroid-avoidance type game. The general premise of the game consists of a spaceship which is controlled by the player, and whose purpose is to avoid getting hit by incoming asteroids from any direction on the screen for as much time as possible.
+
+We have developed a few rules regarding how the game will work. These are outlined below:
+1) asteroid projectiles will be drawn and directed at random directions in the screen
+2) asteroids will be given random sizes
+3) if the player avoids asteroids for 30 seconds, the player will move on to the next level
+4) if the player comes in contact with an asteroid, the player loses the game
+
+The player will have access to four keyboard controls to manipulate the position of the character in the up, down, left, and right directions. These four inputs will most likely be dealt with the arrow keys.
+
+The game screen consists of a fixed zone in space where asteroids will fly by, and where the character can move about freely. There is a header at the top of the screen indicating how much time is left in the respective game level, and which game level the player is in. The score of this game will be measured by the game level you reach when you lose. Thus, the objective of the game is to reach the highest level possible by playing it the longest without dying.
+
+Minal completed the ship class and the screen class.  These implement the motion of the spaceship and the start & end/restart screens.  The three rules of the game are 1) the spaceship cannot go off the screen, 2) the spaceship must avoid the asteroids, and 3) the asteroids move towards the center of the screen. Bruno completed the Animation and main functions controlling where the asteroids are drawn. Tianhao worked on thee extra credit sections.
