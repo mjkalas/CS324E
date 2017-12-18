@@ -1,12 +1,3 @@
-#  File: Books.py
-#  Description: Compares word frequency and variances within two given texts.
-#  Student Name: Minal Kalas
-#  Student UT EID: mjk863
-#  Course Name: CS 303E
-#  Unique Number: 50475
-#  Date Created: 11/28/15
-#  Date Last Modified: 11/30/15
-
 # Create word dictionary from the comprehensive word list 
 word_dict = {}
 def create_word_dict ():
