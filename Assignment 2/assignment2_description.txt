@@ -1,0 +1,3 @@
+I ran a picture of cherry tomatoes through various filters by using nested loops and convolution matrices.
+
+There are not really any special things to do with this project.  I have implemented three of the four required functionalities - gray, contrast, and blur. There are not interesting features.  My Gaussian blur is really subtle.  I have included my original image.  Hopefully it works!

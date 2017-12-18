@@ -1,0 +1,1 @@
+Open the file mjk863_assignment_pde and make sure the tomatoplant.jpg file is in the same folder.  If so, hit play, and the image should populate.  Once you see the image, go through the 0-4 keys on your keyboard to apply the different filters.
